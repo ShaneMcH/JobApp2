@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "date": "2022-05-01",
+        "startTime": "9AM",
+        "endTime": "5PM",
+        "department": "Intensive Care",
+        "facility": "A Nice Hospital",
+        "address": {
+            "line1": "10 Nice Street",
+            "suburb": "Sydney",
+            "state": "NSW",
+            "postcode": "2000"
+        }
+    },
+    {
+        "id": 2,
+        "date": "2022-05-03",
+        "startTime": "3PM",
+        "endTime": "11PM",
+        "department": "Emergency",
+        "facility": "A Nice Hospital",
+        "address": {
+            "line1": "10 Nice Street",
+            "suburb": "Sydney",
+            "state": "NSW",
+            "postcode": "2000"
+        }
+    },
+    {
+        "id": 3,
+        "date": "2022-05-06",
+        "startTime": "10AM",
+        "endTime": "10PM",
+        "department": "Theatres",
+        "facility": "The Best Hospital",
+        "address": {
+            "line1": "32 The Best Lane",
+            "suburb": "Sydney",
+            "state": "NSW",
+            "postcode": "2000"
+        }
+    },
+    {
+        "id": 4,
+        "date": "2022-05-06",
+        "startTime": "10PM",
+        "endTime": "6AM",
+        "department": "Theatres",
+        "facility": "The Best Hospital",
+        "address": {
+            "line1": "32 The Best Lane",
+            "suburb": "Sydney",
+            "state": "NSW",
+            "postcode": "2000"
+        }
+    },
+    {
+        "id": 5,
+        "date": "2022-05-07",
+        "startTime": "1PM",
+        "endTime": "8PM",
+        "department": "Intensive Care",
+        "facility": "The Best Hospital",
+        "address": {
+            "line1": "32 The Best Lane",
+            "suburb": "Sydney",
+            "state": "NSW",
+            "postcode": "2000"
+        }
+    },
+    {
+        "id": 6,
+        "date": "2022-05-11",
+        "startTime": "6AM",
+        "endTime": "12PM",
+        "department": "Theatres",
+        "facility": "A Nice Hospital",
+        "address": {
+            "line1": "10 Nice Street",
+            "suburb": "Sydney",
+            "state": "NSW",
+            "postcode": "2000"
+        }
+    },
+    {
+        "id": 7,
+        "date": "2022-05-12",
+        "startTime": "5PM",
+        "endTime": "11PM",
+        "department": "Emergency",
+        "facility": "A Nice Hospital",
+        "address": {
+            "line1": "10 Nice Street",
+            "suburb": "Sydney",
+            "state": "NSW",
+            "postcode": "2000"
+        }
+    },
+    {
+        "id": 8,
+        "date": "2022-05-12",
+        "startTime": "11PM",
+        "endTime": "10AM",
+        "department": "Intensive Care",
+        "facility": "A Nice Hospital",
+        "address": {
+            "line1": "10 Nice Street",
+            "suburb": "Sydney",
+            "state": "NSW",
+            "postcode": "2000"
+        }
+    }
+]
